@@ -14,3 +14,12 @@ let isYou = confirm("it's you?")
 alert(isYou)
 ```
 #
+## Education
+* **University**: Gomel State Technical University named after P. O. Suchoi
+* **Courses**: EPAM Training Center, Front-end
+#
+## Experience
+#### Now I work as an engineer in a power supply organization
+#
+## English 
+#### B1
